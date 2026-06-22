@@ -26,7 +26,7 @@
 
 </div>
 <div align="center">
-  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="700">
+  <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="700">
 </div>
 
 ---
