@@ -32,7 +32,8 @@
 <p align="center">
   <img width="280" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzNta3c2M2R1Zmd5NjB1dG44eHZrZTZiN3J4ZXk1eW11OWdoMXl5eSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/coxQHKASG60HrHtvkt/giphy.gif">
 </p>
-🔹 Technical Explorer passionate about building real-world software solutions.
+<table align="center">
+<tr><td>Technical Explorer passionate about building real-world software solutions</td></tr>
 
 🔹 Exploring Programming, Linux, Artificial Intelligence, and Web Technologies.
 
@@ -41,7 +42,7 @@
 🔹 Interested in Software Engineering, Open Source, and Emerging Technologies.
 
 🔹 Constantly improving technical skills through experimentation and development.
-
+</table>
 ---
 
 # 💻 Skills & Technologies
