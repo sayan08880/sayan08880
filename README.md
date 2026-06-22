@@ -1,109 +1,134 @@
-<h1 align="center">Hi 👋, I'm Sayan Mahalanabish</h1>
-<h3 align="center">Technical Explorer & Aspiring Developer</h3>
+<div align="center">
+
+# ⚡ SAYAN MAHALANABISH ⚡
+
+### TECHNICAL EXPLORER • SOFTWARE DEVELOPER • OPEN SOURCE LEARNER
+
+<img src="https://komarev.com/ghpvc/?username=sayan08880&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge"/>
+
+</div>
+
+---
+
+## 🚀 WHO AM I?
+
+<img align="right" width="250" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzNta3c2M2R1Zmd5NjB1dG44eHZrZTZiN3J4ZXk1eW11OWdoMXl5eSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/coxQHKASG60HrHtvkt/giphy.gif">
+
+🔹 Technical Explorer passionate about building practical software.
+
+🔹 Interested in Linux, Programming, Web Development, and AI.
+
+🔹 Always learning, always building.
+
+🔹 I focus on creating projects that solve real problems.
+
+🔹 Exploring Software Engineering one project at a time.
+
+---
+
+## 🌐 CONNECT WITH ME
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sayan08880&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
 
----
-
-## 🚀 About Me
-
-💻 Passionate about Software Development, Linux, Web Technologies, and Problem Solving.
-
-🌱 Currently improving my skills in:
-
-- Python Development
-- C Programming
-- Java Programming
-- Linux Administration
-- Web Development
-- Database Management
-- Machine Learning Fundamentals
-
-⚡ I don't just learn technology — I build with it.
-
----
-
-## 🌐 Connect With Me
-
-<p align="left">
-<a href="https://linkedin.com/in/sayan-mahalanabish-4278571b6" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-
-<a href="https://github.com/sayan08880" target="_blank">
+<a href="https://github.com/sayan08880">
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
-<a href="https://sayan08880.github.io/PORTFOLIO/" target="_blank">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" />
+<a href="https://linkedin.com/in/sayan-mahalanabish-4278571b6">
+<img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
+
+<a href="https://sayan08880.github.io/PORTFOLIO/">
+<img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=firefox&logoColor=white" />
+</a>
+
 </p>
 
 ---
 
-## 💻 Technical Skills
+# 💻 TECH STACK
 
-### Programming Languages
+### Languages
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=python,c,java,php,javascript" />
 </p>
 
 ### Web Development
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,php" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,php,firebase" />
 </p>
 
-### Databases
+### Database
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
-### Tools & Platforms
+### Tools
 
-<p>
-<img src="https://skillicons.dev/icons?i=linux,git,github,vscode,firebase" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=linux,git,github,vscode,bash" />
 </p>
 
 ---
 
-## 📂 Featured Projects
+# 🔥 FEATURED PROJECTS
 
-### 🧬 Cancer Prediction System
-Machine Learning based web application for cancer prediction using Logistic Regression.
+## 🧬 Cancer Prediction System
+Machine Learning based cancer prediction web application.
 
-### 🤖 AI Chatbot
-Python-based chatbot powered by Groq API and LLaMA models.
+## 🤖 AI Chatbot
+Python chatbot powered by modern LLM APIs.
 
-### 💬 Private Chat Application
-Real-time encrypted chat application using Firebase and AES-GCM encryption.
+## 💬 Private Chat Application
+Encrypted real-time communication platform.
 
-### 📡 HULK SEND
-LAN-based file sharing tool with QR code support.
+## 📡 HULK SEND
+LAN-based file transfer utility with QR sharing.
 
-### 🌍 World Weather & Clock
-Weather forecasting and world clock application.
-
----
-
-## 📊 GitHub Statistics
-
-![](https://github-readme-stats.vercel.app/api?username=sayan08880&show_icons=true&theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sayan08880&layout=compact&theme=tokyonight)
-
-![](https://streak-stats.demolab.com?user=sayan08880&theme=tokyonight)
+## 🌎 Weather & World Clock
+Live weather and timezone tracking application.
 
 ---
 
-## 🎯 Career Objective
+# 📈 GITHUB ANALYTICS
 
-To build practical software solutions, continuously improve technical skills, and contribute to impactful projects in software development, Linux systems, and emerging technologies.
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sayan08880&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayan08880&layout=compact&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=sayan08880&theme=tokyonight"/>
+
+</p>
 
 ---
 
-⭐ If you like my work, consider following my GitHub profile.
+# 🎯 CURRENT FOCUS
+
+🚀 Software Development
+
+🐧 Linux & Open Source
+
+🌐 Full Stack Development
+
+🤖 Artificial Intelligence
+
+📚 Continuous Learning
+
+---
+
+<div align="center">
+
+## ⚡ BUILD • LEARN • IMPROVE ⚡
+
+*"I don't just learn technology — I build with it."*
+
+</div>
