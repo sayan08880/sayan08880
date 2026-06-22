@@ -9,8 +9,6 @@
 
 ## 🚀 About Me
 
-🎓 BCA Student at MAKAUT, West Bengal
-
 💻 Passionate about Software Development, Linux, Web Technologies, and Problem Solving.
 
 🌱 Currently improving my skills in:
