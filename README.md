@@ -30,16 +30,19 @@
 
 # 🚀 About Me
 
+<img align="right" width="280" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
+
 🔹 Technical Explorer passionate about building real-world software solutions.
 
 🔹 Exploring Programming, Linux, Artificial Intelligence, and Web Technologies.
 
 🔹 Focused on learning by building practical projects.
 
-🔹 Interested in Software Engineering, Open Source, and Emerging Technologies.
+🔹 Interested in Software Engineering and Emerging Technologies.
 
 🔹 Constantly improving technical skills through experimentation and development.
 
+<br><br><br><br><br><br><br>
 ---
 
 # 💻 Skills & Technologies
