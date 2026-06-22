@@ -174,16 +174,16 @@ Weather forecasting and timezone tracking application.
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
-<a href="https://linkedin.com/in/sayan-mahalanabish-4278571b6">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-
 <a href="mailto:dasguptasayan.080@gmail.com">
 <img src="https://img.icons8.com/color/96/gmail-new.png" width="48"/>
 </a>
 
 <a href="https://sayan08880.github.io/PORTFOLIO/">
 <img src="https://img.icons8.com/color/96/globe--v1.png" width="48"/>
+</a>
+
+<a href="https://linkedin.com/in/sayan-mahalanabish-4278571b6">
+<img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
 </div>
