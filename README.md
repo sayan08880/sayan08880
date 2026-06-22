@@ -35,14 +35,13 @@
 <table align="center">
 <tr align="center"><td> Technical Explorer passionate about building real-world software solutions </td></tr>
 
-<tr><td> Exploring Programming, Linux, Artificial Intelligence, and Web Technologies </td></tr>
+<tr align="center"><td> Exploring Programming, Linux, Artificial Intelligence, and Web Technologies </td></tr>
 
-<tr><td> Focused on learning by building practical projects </td></tr>
+<tr align="center"><td> Focused on learning by building practical projects </td></tr>
 
-<tr><td> Interested in Software Engineering, Open Source, and Emerging Technologies </td></tr>
+<tr align="center"><td> Interested in Software Engineering, Open Source, and Emerging Technologies </td></tr>
 
-<tr><td> Constantly improving technical skills through experimentation and development </td></tr>
----
+<tr align="center"><td> Constantly improving technical skills through experimentation and development </td></tr>
 </table>
 
 
