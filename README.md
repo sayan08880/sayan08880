@@ -25,6 +25,9 @@
 </p>
 
 </div>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="700">
+</div>
 
 ---
 
@@ -42,7 +45,7 @@
 
 🔹 Constantly improving technical skills through experimentation and development.
 
-<br><br><br><br><br><br><br>
+<br><br>
 ---
 
 # 💻 Skills & Technologies
