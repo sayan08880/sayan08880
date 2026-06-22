@@ -4,29 +4,173 @@
 
 ### TECHNICAL EXPLORER • SOFTWARE DEVELOPER • OPEN SOURCE LEARNER
 
+<p>
 <img src="https://komarev.com/ghpvc/?username=sayan08880&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge"/>
+</p>
+
+<p>
+<a href="https://github.com/sayan08880">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<a href="https://linkedin.com/in/sayan-mahalanabish-4278571b6">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="https://sayan08880.github.io/PORTFOLIO/">
+<img src="https://img.shields.io/badge/PORTFOLIO-111827?style=for-the-badge&logo=firefox&logoColor=white"/>
+</a>
+</p>
 
 </div>
 
 ---
 
-## 🚀 WHO AM I?
+# 🚀 About Me
 
-<img align="right" width="250" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzNta3c2M2R1Zmd5NjB1dG44eHZrZTZiN3J4ZXk1eW11OWdoMXl5eSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/coxQHKASG60HrHtvkt/giphy.gif">
+<img align="right" width="280" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzNta3c2M2R1Zmd5NjB1dG44eHZrZTZiN3J4ZXk1eW11OWdoMXl5eSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/coxQHKASG60HrHtvkt/giphy.gif">
 
 🔹 Technical Explorer passionate about building practical software.
 
-🔹 Interested in Linux, Programming, Web Development, and AI.
+🔹 Exploring Linux, Programming, Artificial Intelligence and Web Technologies.
 
-🔹 Always learning, always building.
+🔹 Focused on solving real-world problems through technology.
 
-🔹 I focus on creating projects that solve real problems.
+🔹 Constantly learning and improving through projects.
 
-🔹 Exploring Software Engineering one project at a time.
+🔹 Interested in Software Development, Open Source and Emerging Technologies.
+
+<br><br>
 
 ---
 
-## 🌐 CONNECT WITH ME
+# 💻 Skills & Technologies
+
+<table align="center">
+<tr>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=python" width="70"/><br>
+<b>Python Development</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=c" width="70"/><br>
+<b>C Programming</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=java" width="70"/><br>
+<b>Java Programming</b>
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=linux" width="70"/><br>
+<b>Linux Administration</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js" width="70"/><br>
+<b>Web Development</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=mysql" width="70"/><br>
+<b>Database Management</b>
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="70"/><br>
+<b>Machine Learning</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=git" width="70"/><br>
+<b>Git</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=github" width="70"/><br>
+<b>GitHub</b>
+</td>
+
+</tr>
+</table>
+
+---
+
+# 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,c,java,php,javascript,html,css,mysql,linux,git,github,vscode,firebase,bash" />
+
+</div>
+
+---
+
+# 🔥 Featured Projects
+
+### 🧬 Cancer Prediction System
+Machine Learning based cancer prediction web application using Python and Logistic Regression.
+
+### 🤖 AI Chatbot
+AI-powered chatbot built using Python and Large Language Models.
+
+### 💬 Private Chat Application
+Real-time encrypted chat application with Firebase integration.
+
+### 📡 HULK SEND
+LAN-based file transfer application with QR sharing support.
+
+### 🌍 World Weather & Clock
+Weather forecasting and timezone tracking application.
+
+---
+
+# 📈 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sayan08880&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayan08880&layout=compact&theme=tokyonight"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=sayan08880&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 🎯 Current Focus
+
+🐍 Python Development
+
+⚙️ Software Engineering
+
+🐧 Linux & Open Source
+
+🌐 Full Stack Web Development
+
+🤖 Artificial Intelligence
+
+📚 Continuous Learning
+
+---
+
+# 🌐 Connect With Me
 
 <p align="center">
 
@@ -38,90 +182,15 @@
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
+<a href="mailto:dasguptasayan.080@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 <a href="https://sayan08880.github.io/PORTFOLIO/">
-<img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=firefox&logoColor=white" />
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white"/>
 </a>
 
 </p>
-
----
-
-# 💻 TECH STACK
-
-### Languages
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,c,java,php,javascript" />
-</p>
-
-### Web Development
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,php,firebase" />
-</p>
-
-### Database
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=mysql" />
-</p>
-
-### Tools
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=linux,git,github,vscode,bash" />
-</p>
-
----
-
-# 🔥 FEATURED PROJECTS
-
-## 🧬 Cancer Prediction System
-Machine Learning based cancer prediction web application.
-
-## 🤖 AI Chatbot
-Python chatbot powered by modern LLM APIs.
-
-## 💬 Private Chat Application
-Encrypted real-time communication platform.
-
-## 📡 HULK SEND
-LAN-based file transfer utility with QR sharing.
-
-## 🌎 Weather & World Clock
-Live weather and timezone tracking application.
-
----
-
-# 📈 GITHUB ANALYTICS
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sayan08880&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayan08880&layout=compact&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=sayan08880&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🎯 CURRENT FOCUS
-
-🚀 Software Development
-
-🐧 Linux & Open Source
-
-🌐 Full Stack Development
-
-🤖 Artificial Intelligence
-
-📚 Continuous Learning
 
 ---
 
@@ -129,6 +198,8 @@ Live weather and timezone tracking application.
 
 ## ⚡ BUILD • LEARN • IMPROVE ⚡
 
-*"I don't just learn technology — I build with it."*
+### "I don't just learn technology — I build with it."
+
+⭐ Thanks for visiting my profile ⭐
 
 </div>
