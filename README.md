@@ -13,14 +13,14 @@
 <a href="https://github.com/sayan08880">
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
-
+<a href="https://sayan08880.github.io/PORTFOLIO/">
+<img src="https://img.icons8.com/color/96/globe--v1.png" width="48"/>
+</a>
 <a href="https://linkedin.com/in/sayan-mahalanabish-4278571b6">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-<a href="https://sayan08880.github.io/PORTFOLIO/">
-<img src="https://img.icons8.com/color/96/globe--v1.png" width="48"/>
-</a>
+
 
 </p>
 
@@ -29,6 +29,8 @@
 ---
 
 # 🚀 About Me
+
+<img align="right" width="280" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzNta3c2M2R1Zmd5NjB1dG44eHZrZTZiN3J4ZXk1eW11OWdoMXl5eSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/coxQHKASG60HrHtvkt/giphy.gif">
 
 🔹 Technical Explorer passionate about building real-world software solutions.
 
