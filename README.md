@@ -4,11 +4,12 @@
 
 ### TECHNICAL EXPLORER • SOFTWARE DEVELOPER • OPEN SOURCE LEARNER
 
-<p>
+<p align="center">
 <img src="https://komarev.com/ghpvc/?username=sayan08880&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge"/>
 </p>
 
-<p>
+<p align="center">
+
 <a href="https://github.com/sayan08880">
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
@@ -18,8 +19,9 @@
 </a>
 
 <a href="https://sayan08880.github.io/PORTFOLIO/">
-<img src="https://img.shields.io/badge/PORTFOLIO-111827?style=for-the-badge&logo=firefox&logoColor=white"/>
+<img src="https://img.icons8.com/color/96/globe--v1.png" width="48"/>
 </a>
+
 </p>
 
 </div>
@@ -28,81 +30,73 @@
 
 # 🚀 About Me
 
-<img align="right" width="280" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzNta3c2M2R1Zmd5NjB1dG44eHZrZTZiN3J4ZXk1eW11OWdoMXl5eSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/coxQHKASG60HrHtvkt/giphy.gif">
+🔹 Technical Explorer passionate about building real-world software solutions.
 
-🔹 Technical Explorer passionate about building practical software.
+🔹 Exploring Programming, Linux, Artificial Intelligence, and Web Technologies.
 
-🔹 Exploring Linux, Programming, Artificial Intelligence and Web Technologies.
+🔹 Focused on learning by building practical projects.
 
-🔹 Focused on solving real-world problems through technology.
+🔹 Interested in Software Engineering, Open Source, and Emerging Technologies.
 
-🔹 Constantly learning and improving through projects.
-
-🔹 Interested in Software Development, Open Source and Emerging Technologies.
-
-<br><br>
+🔹 Constantly improving technical skills through experimentation and development.
 
 ---
 
 # 💻 Skills & Technologies
 
 <table align="center">
+
 <tr>
-
 <td align="center">
-<img src="https://skillicons.dev/icons?i=python" width="70"/><br>
-<b>Python Development</b>
+<img src="https://skillicons.dev/icons?i=python" width="65"/><br>
+Python Development
 </td>
 
 <td align="center">
-<img src="https://skillicons.dev/icons?i=c" width="70"/><br>
-<b>C Programming</b>
+<img src="https://skillicons.dev/icons?i=c" width="65"/><br>
+C Programming
 </td>
 
 <td align="center">
-<img src="https://skillicons.dev/icons?i=java" width="70"/><br>
-<b>Java Programming</b>
+<img src="https://skillicons.dev/icons?i=java" width="65"/><br>
+Java Programming
 </td>
-
 </tr>
 
 <tr>
-
 <td align="center">
-<img src="https://skillicons.dev/icons?i=linux" width="70"/><br>
-<b>Linux Administration</b>
+<img src="https://skillicons.dev/icons?i=linux" width="65"/><br>
+Linux Administration
 </td>
 
 <td align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js" width="70"/><br>
-<b>Web Development</b>
+<img src="https://skillicons.dev/icons?i=html,css,js" width="65"/><br>
+Web Development
 </td>
 
 <td align="center">
-<img src="https://skillicons.dev/icons?i=mysql" width="70"/><br>
-<b>Database Management</b>
+<img src="https://skillicons.dev/icons?i=mysql" width="65"/><br>
+Database Management
 </td>
-
 </tr>
 
 <tr>
-
 <td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="70"/><br>
-<b>Machine Learning</b>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="65"/><br>
+Machine Learning
 </td>
 
 <td align="center">
-<img src="https://skillicons.dev/icons?i=git" width="70"/><br>
-<b>Git</b>
+<img src="https://skillicons.dev/icons?i=git" width="65"/><br>
+Git
 </td>
 
 <td align="center">
-<img src="https://skillicons.dev/icons?i=github" width="70"/><br>
-<b>GitHub</b>
+<img src="https://skillicons.dev/icons?i=github" width="65"/><br>
+GitHub
 </td>
-
 </tr>
+
 </table>
 
 ---
@@ -111,7 +105,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,c,java,php,javascript,html,css,mysql,linux,git,github,vscode,firebase,bash" />
+<img src="https://skillicons.dev/icons?i=python,c,java,php,javascript,html,css,mysql,linux,git,github,bash,vscode,firebase" />
 
 </div>
 
@@ -119,32 +113,34 @@
 
 # 🔥 Featured Projects
 
-### 🧬 Cancer Prediction System
-Machine Learning based cancer prediction web application using Python and Logistic Regression.
+## 🧬 Cancer Prediction System
+Machine Learning based cancer prediction application using Python and Logistic Regression.
 
-### 🤖 AI Chatbot
+## 🤖 AI Chatbot
 AI-powered chatbot built using Python and Large Language Models.
 
-### 💬 Private Chat Application
-Real-time encrypted chat application with Firebase integration.
+## 💬 Private Chat Application
+Encrypted real-time chat platform with Firebase integration.
 
-### 📡 HULK SEND
-LAN-based file transfer application with QR sharing support.
+## 📡 HULK SEND
+LAN-based file transfer tool with QR sharing support.
 
-### 🌍 World Weather & Clock
+## 🌍 World Weather & Clock
 Weather forecasting and timezone tracking application.
 
 ---
 
-# 📈 GitHub Analytics
+# 📊 GitHub Statistics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sayan08880&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sayan08880&show_icons=true&theme=tokyonight"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayan08880&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayan08880&layout=compact&theme=tokyonight"/>
 
 </div>
+
+<br>
 
 <div align="center">
 
@@ -162,7 +158,7 @@ Weather forecasting and timezone tracking application.
 
 🐧 Linux & Open Source
 
-🌐 Full Stack Web Development
+🌐 Full Stack Development
 
 🤖 Artificial Intelligence
 
@@ -172,7 +168,7 @@ Weather forecasting and timezone tracking application.
 
 # 🌐 Connect With Me
 
-<p align="center">
+<div align="center">
 
 <a href="https://github.com/sayan08880">
 <img src="https://skillicons.dev/icons?i=github" />
@@ -183,14 +179,14 @@ Weather forecasting and timezone tracking application.
 </a>
 
 <a href="mailto:dasguptasayan.080@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.icons8.com/color/96/gmail-new.png" width="48"/>
 </a>
 
 <a href="https://sayan08880.github.io/PORTFOLIO/">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white"/>
+<img src="https://img.icons8.com/color/96/globe--v1.png" width="48"/>
 </a>
 
-</p>
+</div>
 
 ---
 
