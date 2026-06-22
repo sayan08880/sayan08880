@@ -23,17 +23,11 @@
 </a>
 
 </p>
-
-</div>
-<div align="center">
-  <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="700">
-</div>
-
 ---
 
 # 🚀 About Me
 
-<img align="right" width="280" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
+<img align="right" width="280" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzNta3c2M2R1Zmd5NjB1dG44eHZrZTZiN3J4ZXk1eW11OWdoMXl5eSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/coxQHKASG60HrHtvkt/giphy.gif">
 
 🔹 Technical Explorer passionate about building real-world software solutions.
 
