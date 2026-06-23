@@ -115,23 +115,23 @@ GitHub
 ---
 
 # 🔥 Featured Projects
+<table aline="center"
 
-## 🧬 Cancer Prediction System
-Machine Learning based cancer prediction application using Python and Logistic Regression.
+<td aline="center"><tr>## 🧬 Cancer Prediction System</tr></td>
+<td aline="center"><tr>Machine Learning based cancer prediction application using Python and Logistic Regression.</tr></td>
 
-## 🤖 AI Chatbot
-AI-powered chatbot built using Python and Large Language Models.
+<td aline="center"><tr>## 🤖 AI Chatbot</tr></td>
+<td aline="center"><tr>AI-powered chatbot built using Python and Large Language Models.</tr></td>
 
-## 💬 Private Chat Application
-Encrypted real-time chat platform with Firebase integration.
+<td aline="center"><tr>## 💬 Private Chat Application</tr></td>
+<td aline="center"><tr>Encrypted real-time chat platform with Firebase integration.</tr></td>
 
-## 📡 HULK SEND
-LAN-based file transfer tool with QR sharing support.
+<td aline="center"><tr>## 📡 HULK SEND</tr></td>
+<td aline="center"><tr>LAN-based file transfer tool with QR sharing support.</tr></td>
 
-## 🌍 World Weather & Clock
-Weather forecasting and timezone tracking application.
-
----
+<td aline="center"><tr>## 🌍 World Weather & Clock</tr></td>
+<td aline="center"><tr>Weather forecasting and timezone tracking application.</tr></td>
+</table>
 
 # 📊 GitHub Statistics
 
