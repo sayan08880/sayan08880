@@ -145,6 +145,11 @@ GitHub
     <td>🌍 World Weather & Clock</td>
     <td>Weather forecasting and timezone tracking application.</td>
 </tr>
+
+<tr align="center">
+    <td>🛡️ Windows Malware</td>
+    <td>Collection of Windows malware samples and behavior analysis reports for cybersecurity research and educational purposes.</td>
+</tr>
 </table>
 
 # 📊 GitHub Statistics
