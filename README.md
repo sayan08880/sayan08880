@@ -116,32 +116,32 @@ GitHub
 
 # 🔥 Featured Projects
 <table align="center">
-<tr>
+<tr align="center">
     <th>Project</th>
     <th>Description</th>
 </tr>
 
-<tr>
+<tr align="center">
     <td>🧬 Cancer Prediction System</td>
     <td>Machine Learning based cancer prediction application using Python and Logistic Regression.</td>
 </tr>
 
-<tr>
+<tr align="center">
     <td>🤖 AI Chatbot</td>
     <td>AI-powered chatbot built using Python and Large Language Models.</td>
 </tr>
 
-<tr>
+<tr align="center">
     <td>💬 Private Chat Application</td>
     <td>Encrypted real-time chat platform with Firebase integration.</td>
 </tr>
 
-<tr>
+<tr align="center">
     <td>📡 HULK SEND</td>
     <td>LAN-based file transfer tool with QR sharing support.</td>
 </tr>
 
-<tr>
+<tr align="center">
     <td>🌍 World Weather & Clock</td>
     <td>Weather forecasting and timezone tracking application.</td>
 </tr>
@@ -169,17 +169,22 @@ GitHub
 
 # 🎯 Current Focus
 
-🐍 Python Development
+<table align="center">
+<tr align="center">
+<td>🐍 Python Development</td>
+<td>⚙️ Software Engineering</td>
+</tr>
 
-⚙️ Software Engineering
+<tr align="center">
+<td>🐧 Linux & Open Source</td>
+<td>🌐 Full Stack Development</td>
+</tr>
 
-🐧 Linux & Open Source
-
-🌐 Full Stack Development
-
-🤖 Artificial Intelligence
-
-📚 Continuous Learning
+<tr align="center">
+<td>🤖 Artificial Intelligence</td>
+<td>📚 Continuous Learning</td>
+</tr>
+</table>
 
 ---
 
