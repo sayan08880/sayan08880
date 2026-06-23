@@ -115,7 +115,7 @@ GitHub
 ---
 
 # 🔥 Featured Projects
-<table aline="center"
+<table aline="center">
 
 <td aline="center"><tr>## 🧬 Cancer Prediction System</tr></td>
 <td aline="center"><tr>Machine Learning based cancer prediction application using Python and Logistic Regression.</tr></td>
