@@ -115,22 +115,36 @@ GitHub
 ---
 
 # 🔥 Featured Projects
-<table aline="center">
+<table align="center">
+<tr>
+    <th>Project</th>
+    <th>Description</th>
+</tr>
 
-<td aline="center"><tr>🧬 Cancer Prediction System</tr></td>
-<td aline="center"><tr>Machine Learning based cancer prediction application using Python and Logistic Regression.</tr></td>
+<tr>
+    <td>🧬 Cancer Prediction System</td>
+    <td>Machine Learning based cancer prediction application using Python and Logistic Regression.</td>
+</tr>
 
-<td aline="center"><tr>🤖 AI Chatbot</tr></td>
-<td aline="center"><tr>AI-powered chatbot built using Python and Large Language Models.</tr></td>
+<tr>
+    <td>🤖 AI Chatbot</td>
+    <td>AI-powered chatbot built using Python and Large Language Models.</td>
+</tr>
 
-<td aline="center"><tr>💬 Private Chat Application</tr></td>
-<td aline="center"><tr>Encrypted real-time chat platform with Firebase integration.</tr></td>
+<tr>
+    <td>💬 Private Chat Application</td>
+    <td>Encrypted real-time chat platform with Firebase integration.</td>
+</tr>
 
-<td aline="center"><tr>📡 HULK SEND</tr></td>
-<td aline="center"><tr>LAN-based file transfer tool with QR sharing support.</tr></td>
+<tr>
+    <td>📡 HULK SEND</td>
+    <td>LAN-based file transfer tool with QR sharing support.</td>
+</tr>
 
-<td aline="center"><tr>🌍 World Weather & Clock</tr></td>
-<td aline="center"><tr>Weather forecasting and timezone tracking application.</tr></td>
+<tr>
+    <td>🌍 World Weather & Clock</td>
+    <td>Weather forecasting and timezone tracking application.</td>
+</tr>
 </table>
 
 # 📊 GitHub Statistics
