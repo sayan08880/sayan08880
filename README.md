@@ -13,7 +13,7 @@
 <a href="https://github.com/sayan08880">
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
-<a href="https://sayan08880.github.io/PORTFOLIO/">
+<a href="https://sayan080.netlify.app">
 <img src="https://img.icons8.com/color/96/globe--v1.png" width="48"/>
 </a>
 <a href="https://linkedin.com/in/sayan-mahalanabish-4278571b6">
@@ -205,7 +205,7 @@ GitHub
 <img src="https://img.icons8.com/color/96/gmail-new.png" width="48"/>
 </a>
 
-<a href="https://sayan08880.github.io/PORTFOLIO/">
+<a href="https://sayan080.netlify.app">
 <img src="https://img.icons8.com/color/96/globe--v1.png" width="48"/>
 </a>
 
