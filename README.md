@@ -153,7 +153,7 @@ GitHub
 </table>
 
 # 📊 GitHub Statistics
-
+<!--
 <div align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=sayan08880&show_icons=true&theme=tokyonight"/><br>
@@ -161,7 +161,7 @@ GitHub
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayan08880&layout=compact&theme=tokyonight"/>
 
 </div>
-
+--->
 <br>
 
 <div align="center">
