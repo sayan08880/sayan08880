@@ -82,19 +82,6 @@ Database Management
 Git
 </td>
 </tr>
-
-<tr>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=vscode" width="65"/><br>
-VS Code
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=arduino,esp32" width="65"/><br>
-IoT Development
-</td>
-</tr>
-
 </table>
 
 ---
@@ -103,7 +90,7 @@ IoT Development
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,nodejs,html,css,js,vscode,linux,arduino,esp32,mysql,git" />
+<img src="https://skillicons.dev/icons?i=python,nodejs,html,css,js,vscode,linux,mysql,git" />
 
 </div>
 
