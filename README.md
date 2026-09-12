@@ -56,13 +56,13 @@ Python Development
 </td>
 
 <td align="center">
-<img src="https://skillicons.dev/icons?i=c" width="65"/><br>
-C Programming
+<img src="https://skillicons.dev/icons?i=nodejs" width="65"/><br>
+Node.js Development
 </td>
 
 <td align="center">
-<img src="https://skillicons.dev/icons?i=java" width="65"/><br>
-Java Programming
+<img src="https://skillicons.dev/icons?i=html,css,js" width="65"/><br>
+Web Development
 </td>
 </tr>
 
@@ -73,30 +73,25 @@ Linux Administration
 </td>
 
 <td align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js" width="65"/><br>
-Web Development
-</td>
-
-<td align="center">
 <img src="https://skillicons.dev/icons?i=mysql" width="65"/><br>
 Database Management
-</td>
-</tr>
-
-<tr>
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="65"/><br>
-Machine Learning
 </td>
 
 <td align="center">
 <img src="https://skillicons.dev/icons?i=git" width="65"/><br>
 Git
 </td>
+</tr>
+
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=vscode" width="65"/><br>
+VS Code
+</td>
 
 <td align="center">
-<img src="https://skillicons.dev/icons?i=github" width="65"/><br>
-GitHub
+<img src="https://skillicons.dev/icons?i=arduino,esp32" width="65"/><br>
+IoT Development
 </td>
 </tr>
 
@@ -108,7 +103,7 @@ GitHub
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,c,java,php,javascript,html,css,mysql,linux,git,github,bash,vscode,firebase" />
+<img src="https://skillicons.dev/icons?i=python,nodejs,html,css,js,vscode,linux,arduino,esp32,mysql,git" />
 
 </div>
 
