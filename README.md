@@ -11,7 +11,7 @@
 <p align="center">
 
 <a href="https://github.com/sayan08880">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREnakdRFINxJArVV5YJJznr9Gk2yvElsfWC0ZysFrwzw&s" />
+<img src="https://encrypted-tbn0.gstatic.com/images?" />
 </a>
 <a href="https://sayan080.netlify.app">
 <img src="https://img.icons8.com/color/96/globe--v1.png" width="48"/>
