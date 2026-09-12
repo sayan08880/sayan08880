@@ -16,7 +16,7 @@
 <a href="https://sayan080.netlify.app">
 <img src="https://img.icons8.com/color/96/globe--v1.png" width="48"/>
 </a>
-<a href="https://linkedin.com/in/sayan-mahalanabish-4278571b6">
+<a href="www.linkedin.com/in/sayan080">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
