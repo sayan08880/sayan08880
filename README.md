@@ -13,11 +13,11 @@
 <a href="https://github.com/sayan08880">
 <img src="https://cdn-icons-png.flaticon.com/512/270/270798.png" width="48"/>
 </a>
-<a href="https://sayan080.netlify.app">
-<img src="https://img.icons8.com/color/96/globe--v1.png" width="48"/>
-</a>
 <a href="https://www.linkedin.com/in/sayan080/">
 <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+<a href="https://sayan080.netlify.app">
+<img src="https://img.icons8.com/color/96/globe--v1.png" width="48"/>
 </a>
 
 
