@@ -17,7 +17,7 @@
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 <a href="https://sayan080.netlify.app">
-<img src="https://img.icons8.com/color/96/globe--v1.png" width="48"/>
+<img src="[https://img.icons8.com/color/96/globe--v1.png](https://raw.githubusercontent.com/sayan08880/PORTFOLIO/refs/heads/main/logo.png?token=GHSAT0AAAAAAEIDJME5L7MGSWIIMDY3AJBE2VVLEEA)" width="48"/>
 </a>
 
 
