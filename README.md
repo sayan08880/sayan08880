@@ -5,7 +5,6 @@
 ### TECHNICAL EXPLORER • SOFTWARE DEVELOPER • OPEN SOURCE LEARNER
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=sayan08880&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge"/>
 </p>
 
 <p align="center">
