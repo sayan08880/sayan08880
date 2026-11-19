@@ -93,6 +93,7 @@ Git
 ---
 
 # 🔥 Featured Projects
+
 <table align="center">
 <tr align="center">
     <th>Project</th>
@@ -100,33 +101,33 @@ Git
 </tr>
 
 <tr align="center">
-    <td>🧬 Cancer Prediction System</td>
-    <td>Machine Learning based cancer prediction application using Python and Logistic Regression.</td>
+    <td>Virtual Line System</td>
+    <td>A smart web-based queue management system built with Flask and Firebase, allowing users to join virtual queues instead of waiting in physical lines.</td>
 </tr>
 
 <tr align="center">
-    <td>🤖 AI Chatbot</td>
-    <td>AI-powered chatbot built using Python and Large Language Models.</td>
+    <td>CYBERNET</td>
+    <td>A local admin and user workstation built with Flask and SQLite, featuring role-based access, user management, controlled file access, messaging, work assignments, and security logging.</td>
 </tr>
 
 <tr align="center">
-    <td>💬 Private Chat Application</td>
-    <td>Encrypted real-time chat platform with Firebase integration.</td>
+    <td>Ollama Web UI</td>
+    <td>A locally hosted AI chat interface powered by Ollama, featuring streaming responses, file reading, Tavily web search, and Gmail integration.</td>
 </tr>
 
 <tr align="center">
-    <td>📡 HULK SEND</td>
-    <td>LAN-based file transfer tool with QR sharing support.</td>
+    <td>Cancer Prediction System</td>
+    <td>A machine learning-based cancer prediction application developed using Python and Logistic Regression.</td>
 </tr>
 
 <tr align="center">
-    <td>🌍 World Weather & Clock</td>
-    <td>Weather forecasting and timezone tracking application.</td>
+    <td>Private Chat Application</td>
+    <td>A private real-time messaging application with Firebase integration.</td>
 </tr>
 
 <tr align="center">
-    <td>🛡️ Windows Malware</td>
-    <td>Collection of Windows malware samples and behavior analysis reports for cybersecurity research and educational purposes.</td>
+    <td>World Weather & Clock</td>
+    <td>A weather forecasting and global timezone tracking application.</td>
 </tr>
 </table>
 
