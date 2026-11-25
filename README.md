@@ -13,7 +13,7 @@
 <img src="https://raw.githubusercontent.com/sayan08880/sayan08880/refs/heads/main/ICON/linkedin.png" width="48"/>
 </a>
 <a href="https://sayan080.netlify.app">
-<img src="https://github.com/sayan08880/PORTFOLIO-TEMP/raw/main/logo.png" width="48"/>
+<img src="https://raw.githubusercontent.com/sayan08880/PORTFOLIO-TEMPLATE/refs/heads/main/logo.png" width="48"/>
 </a>
 
 
